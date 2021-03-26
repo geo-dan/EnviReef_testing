@@ -7,7 +7,7 @@ logo: '_static/logo6.png'
 
 # Launch button settings
 repository:
-  url                         : https://github.com/TristanSalles/EnviReef
+  url                         : https://github.com/geo-dan/coasts
   path_to_book                : "book"
   branch                      : main
 
