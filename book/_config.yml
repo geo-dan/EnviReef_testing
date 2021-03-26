@@ -7,7 +7,7 @@ logo: '_static/logo6.png'
 
 # Launch button settings
 repository:
-  url                         : https://github.com/geo-dan/coasts
+  url                         : https://github.com/geo-dan/envi_books
   path_to_book                : "book"
   branch                      : main
 
